@@ -94,20 +94,6 @@ function Htmlcss() {
                   Click here to watch the playlist
                 </button>
               </a>
-
-              <center>
-                <h3>or</h3>
-              </center>
-              <h4>3. Basic C Language concepts from Telusko : </h4>
-              <a
-                href="https://youtube.com/playlist?list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to watch the playlist
-                </button>
-              </a>
             </div>
           </div>
 
@@ -120,7 +106,7 @@ function Htmlcss() {
                 </h2>
               </center>
               <hr />
-              <h4>1. Learn C Programming :</h4>
+              <h4>1. Learn html and css :</h4>
               <a
                 href="https://www.programiz.com/c-programming"
                 target="_blank"
@@ -133,12 +119,21 @@ function Htmlcss() {
 
               <h4>2. W3 Schools :</h4>
               <a
-                href="https://www.w3schools.com/c/index.php"
+                href="https://www.w3schools.com/html/default.asp"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <button type="button" className="btn btn-info m-2">
-                  Click here to open Website
+                  Click here to open Website for html
+                </button>
+              </a>
+              <a
+                href="https://www.w3schools.com/css/default.asp"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button type="button" className="btn btn-info m-2">
+                  Click here to open Website for css
                 </button>
               </a>
 
@@ -151,22 +146,8 @@ function Htmlcss() {
                 </small>
               </h4>
               <hr />
-              <center>
-                <h2>
-                  Comp<i className="fas fa-file-code"></i>iler:
-                </h2>
-              </center>
               <hr />
-              <h4> &nbsp; C online Compiler</h4>
-              <a
-                href="https://www.programiz.com/c-programming/online-compiler/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <button type="button" className="btn btn-info m-2">
-                  Click here to open online C compiler
-                </button>
-              </a>
+
             </div>
           </div>
 
@@ -180,9 +161,9 @@ function Htmlcss() {
                 </h2>
               </center>
               <hr />
-              <h4>1. 200+ C Questions to practice: </h4>
+              <h4>1. 200+ Html Css Questions to practice: </h4>
               <a
-                href="https://techstudy.org/clanguage/c-programming-example-and-solutions/"
+                href="https://www.w3resource.com/html-css-exercise/index.php"
                 target="_blank"
                 rel="noopener noreferrer"
               >
